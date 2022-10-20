@@ -119,4 +119,4 @@ figs/*
 # sharpy extension
 *.sharpy
 
-docs/source/content/example_notebooks
+docs/source/content/example_notebooks/*
